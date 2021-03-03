@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "sample-test-data-service"
+  description: "sample-test-data-service"
+  annotations:
+    github.com/project-slug: sandeep-pareek/sample-test-data-service
+    backstage.io/techdocs-ref: url:https://github.com/sandeep-pareek/sample-test-data-service
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "sandeep-pareek"

@@ -1,0 +1,8 @@
+site_name: "sample-test-data-service"
+site_description: "sample-test-data-service"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
